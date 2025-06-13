@@ -8,6 +8,4 @@ List<String> names = ['Julietta', 'Benjamino', 'Hans-Günther',
 for(String name in names){
     print('$name');
 }
-
-
 }
